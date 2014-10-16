@@ -5,3 +5,4 @@ Due to a large increase in business, we have hired another lawyer and a paralega
 Name		Username	Role			Cases
 Chris Atkinson 	catkinson	System Administrator	None
 Renee Peterson	rpeterson	Lawyer			Tax Evasion
+Norman Trossell	ntrossell	Paralegal		Divorce

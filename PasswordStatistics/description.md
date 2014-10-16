@@ -1,6 +1,5 @@
 Password Statistics
 
-//TODO- find file
 The attached file contains passwords stolen from Adobe and then cracked by hackers.  We would like to perform some basic statistical tests on these.  Please submit the following stastistics and your source code or script:
 
 (1) % of passwords that contained the word "password" or variant of it (including leetspeak)
