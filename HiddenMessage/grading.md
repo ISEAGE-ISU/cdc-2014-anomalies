@@ -1,10 +1,9 @@
-// TODO - points.
-
-Message was base64 encoded and then inserted into the image using steghide and the password "cdc".  Give partial points based on how complete their research was.
+// TODO - points
+Message was base 64 encoded and then inserted into the image using steghide and the password "cdc".  Give partial points based on how complete their research was.
 
 Answer:
 
-rem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ornare eu quam vel elementum. Suspendisse venenatis turpis et magna pretium, sit amet maximus ipsum fermentum. In at augue dapibus, elementum urna in, iaculis enim. Praesent sed massa sit amet purus bibendum porttitor in sed lacus. Etiam id consequat mi. Maecenas in nisi sem. Nam eros ligula, consequat ut ligula sit amet, mattis elementum leo. Ut nulla risus, finibus sit amet auctor in, semper nec eros. Proin sit amet euismod ex. Nunc malesuada magna sed eros efficitur efficitur. Nunc ut dui tristique, aliquam tortor a, dictum elit. Fusce efficitur lectus quis ipsum convallis volutpat nec sit amet purus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ornare eu quam vel elementum. Suspendisse venenatis turpis et magna pretium, sit amet maximus ipsum fermentum. In at augue dapibus, elementum urna in, iaculis enim. Praesent sed massa sit amet purus bibendum porttitor in sed lacus. Etiam id consequat mi. Maecenas in nisi sem. Nam eros ligula, consequat ut ligula sit amet, mattis elementum leo. Ut nulla risus, finibus sit amet auctor in, semper nec eros. Proin sit amet euismod ex. Nunc malesuada magna sed eros efficitur efficitur. Nunc ut dui tristique, aliquam tortor a, dictum elit. Fusce efficitur lectus quis ipsum convallis volutpat nec sit amet purus.
 
 Sed nunc justo, pellentesque non consectetur vitae, consequat sit amet elit. Aenean in elementum tellus, et consectetur tellus. Pellentesque tempus sapien id malesuada gravida. Vivamus iaculis erat metus, sit amet ullamcorper elit lobortis at. Nulla gravida enim eu metus mattis dapibus. Fusce arcu nisl, convallis nec fermentum aliquet, aliquam ac ex. Nullam sit amet suscipit urna. Ut eget nisl et elit accumsan pellentesque.
 
