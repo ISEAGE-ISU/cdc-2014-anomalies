@@ -1,3 +1,3 @@
-Yet Another Hidden Message
-------
-We received a suspicious message.  Please decode it and submit the decoded message below. 
+Another Hidden Message
+--------
+We received another picture with a hidden message.  Decode the message and submit it.
