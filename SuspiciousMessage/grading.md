@@ -1,3 +1,4 @@
+35 points
 Answer:
 
 Hey Henry,

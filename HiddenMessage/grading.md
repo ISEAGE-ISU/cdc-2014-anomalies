@@ -1,4 +1,4 @@
-// TODO - points
+25 points
 Message was base 64 encoded and then inserted into the image using steghide and the password "cdc".  Give partial points based on how complete their research was.
 
 Answer:

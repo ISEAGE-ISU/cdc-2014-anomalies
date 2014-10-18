@@ -1,1 +1,5 @@
-5 points per service he has been removed from.
+20 points
+10 points per service he has been removed from.
+
+-Web access
+-FTP access
