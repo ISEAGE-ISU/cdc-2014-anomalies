@@ -1,3 +1,4 @@
+50 points
 The secret message is as follows:
 I have the package. Meet me at Bookends.
 
